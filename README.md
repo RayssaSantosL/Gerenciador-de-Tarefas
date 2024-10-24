@@ -1,8 +1,5 @@
 # Gerenciador-de-Tarefas
 Gerenciador de tarefas (To-Do List em Java)
-Claro! Aqui está uma documentação detalhada para o projeto do **Gerenciador de Tarefas**.
-
----
 
 # Documentação do Projeto: Gerenciador de Tarefas
 
@@ -120,6 +117,4 @@ A classe `Main` é o ponto de entrada da aplicação.
 - **Categorias**: Permitir que o usuário categorize as tarefas.
 - **Data de Vencimento**: Adicionar suporte a datas de vencimento para as tarefas.
 
----
 
-Se precisar de mais detalhes ou ajuda em algum aspecto específico, é só avisar!
