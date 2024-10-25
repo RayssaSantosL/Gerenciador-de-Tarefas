@@ -1,5 +1,5 @@
 # Gerenciador-de-Tarefas
-Gerenciador de tarefas (To-Do List em Java)
+Gerenciador de tarefas (To Do List em Java)
 
 # Documentação do Projeto: Gerenciador de Tarefas
 
